@@ -1,0 +1,13 @@
+Descrição Amostrador de gibbs
+
+Números anuais de acidadentes em minas de carvão entre 1851 e 1962
+
+estimar o ponto de mundança na taxa média de acidentes e as taxas antes e depois desse
+ponto
+
+Em inferência bayesiana, o nosso objetivo é estimar o parâemtro de interesse, considerando-o como uma variável aleatória.
+Neste cenário, temos interesse em estimar 3 parâmetros: ano em que a taxa média de acidentes ocorreu ($k$),
+a taxa média de acidentes entre os anos antes e durante k ($\lambda$) e a taxa média 
+de acidentes entre os anos após k ($v$).
+
+no caso de k, qual seria a função de x()??? seria uma conjunta de yi\lambda e yi\po

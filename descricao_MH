@@ -1,0 +1,18 @@
+Temos uma distribuição e precisamos de outra distribuição com o mesmo suporte da distribuição
+que desejamos obter as amostras
+
+a variavel aleatoria com distribuição rayleight assume valores no conjunto dos reais positivos
+
+# exponencial
+
+A distribuição alvo em questão é a distribuição Rayleight com $\sigma = 4$, o suporte para 
+esta distribuição é $x \in [0, +\inf)$. Existem diferentes distribuições com este mesmo suporte
+que servem como distribuição proposta para a aplicação do algoritmo. Inicialmente, propus 
+uma uma exponencial com $\lambda = 1$ e os resultados foram os seguintes:
+
+
+
+
+Como podemos perceber, tanto no gráfico quanto nas médias e variâncias das amostras geradas
+que elas se diferem da distribuição de rayleight. Por conta disso, repliquei o algortimo com outra 
+distribuição proposta, dessa vez para a log-normal/pareto/gamma

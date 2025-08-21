@@ -33,3 +33,6 @@ data <- list(
 df <- as.data.frame(data)
 df
 plot(1:112,df$Contagem,type="h",xlab="ID do Ano",ylab="Contagem")
+
+
+data
